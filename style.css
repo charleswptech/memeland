@@ -1,0 +1,78 @@
+.rubik-bubbles-regular {
+    font-family: "Rubik Bubbles", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+html{background-color: rgb(0, 0, 0);
+margin: 0px;
+}
+body{
+    margin:0px;
+}
+h1{ color:rgb(255, 255, 255);
+     background-color: blue;
+      border-radius: 20px;
+      padding: 10px;
+      font-family: "Rubik Bubbles", system-ui;
+      text-align: center;
+      font-weight: bolder;
+      margin-top: 50px;
+      margin-right: 100px;
+      margin-left: 100px;
+      margin-bottom: 50px;
+      box-shadow: 0px 0px 40px 20px blue; 
+}
+.hoveringbg:hover{
+background-color:rgb(9, 0, 51);
+font-family: "Rubik Bubbles", system-ui;
+}
+a{
+    color: aqua;
+    margin: 0px;
+}
+a:hover{
+    color: rgb(167, 255, 239);
+}
+
+
+h3{ color:rgb(255, 255, 255);
+     background-color: rgba(2, 0, 112, 0.719);
+      border-radius: 20px;
+      padding: 10px;
+      font-family: "Rubik Bubbles", system-ui;
+      text-align: center;
+      font-weight: normal;
+     margin: 0px;
+     margin-bottom: 10px;
+     margin-left: 30px;
+     margin-right:30px;
+      border-color: black;
+      border-style: solid;
+}
+.nav{
+    color: white;
+    font-family: "Rubik Bubbles", system-ui;
+    font-size: 30px;
+    font-weight: 900;
+    background-color: blue;
+    padding: 10px;
+    margin-right: 0px;
+    border-style: none;
+
+}
+.reset{
+    font-size:medium;
+}
+.navbutton{
+    text-decoration:none;
+    margin-left: 20px;
+    margin-right: 20px;
+    color: rgb(255, 255, 255);
+    padding: 5px;
+    background-color: rgb(17, 0, 90);
+    border-radius: 10px;
+    font-size: 30px;
+}
+div{
+    margin: 0px;
+}
