@@ -1,6 +1,6 @@
 .rubik-bubbles-regular {
     font-family: "Rubik Bubbles", system-ui;
-    font-weight: 400;
+    font-weight: 100;
     font-style: normal;
   }
 html{background-color: rgb(0, 0, 0);
@@ -15,12 +15,29 @@ h1{ color:rgb(255, 255, 255);
       padding: 10px;
       font-family: "Rubik Bubbles", system-ui;
       text-align: center;
-      font-weight: bolder;
+      font-size: 100px;
+      font-weight: normal;
       margin-top: 50px;
       margin-right: 100px;
       margin-left: 100px;
       margin-bottom: 50px;
       box-shadow: 0px 0px 40px 20px blue; 
+}
+.hoveringbg{
+    color:rgb(255, 255, 255);
+    background-color: rgba(2, 0, 112, 0.719);
+     border-radius: 20px;
+     padding: 10px;
+     font-family: "Rubik Bubbles", system-ui;
+     text-align: center;
+     font-weight: normal;
+    margin: 0px;
+    margin-bottom: 10px;
+    margin-left: 200px;
+    margin-right: 200px;
+     border-color: black;
+     border-style: solid;
+     font-size: 50px;
 }
 .hoveringbg:hover{
 background-color:rgb(9, 0, 51);
@@ -35,25 +52,12 @@ a:hover{
 }
 
 
-h3{ color:rgb(255, 255, 255);
-     background-color: rgba(2, 0, 112, 0.719);
-      border-radius: 20px;
-      padding: 10px;
-      font-family: "Rubik Bubbles", system-ui;
-      text-align: center;
-      font-weight: normal;
-     margin: 0px;
-     margin-bottom: 10px;
-     margin-left: 30px;
-     margin-right:30px;
-      border-color: black;
-      border-style: solid;
-}
+
 .nav{
     color: white;
     font-family: "Rubik Bubbles", system-ui;
     font-size: 30px;
-    font-weight: 900;
+    font-weight: 100;
     background-color: blue;
     padding: 10px;
     margin-right: 0px;
